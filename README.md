@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hottinho
 - 👀 I’m interested in journalism, podcasting, music and comedy.
 - 🌱 I’m currently learning git, HTML and how to set up my own webspace on Uberspace.
-- 💞️ I’m looking to collaborate on audio-projects.
 - 📫 How to reach me: hottinho@uber.space
 
 <!---
