@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hottinho
 - 👀 I’m interested in journalism, podcasting, music and comedy.
-- 🌱 I’m currently learning git, HTML and how to set up my own webspace on Uberspace.
-- 📫 How to reach me: hottinho@uber.space
+- 🌱 I’m currently learning coding at DevHaus Leipzig.
+- 📫 How to reach me: post@christian-erll.de
 
 <!---
 Hottinho/Hottinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
