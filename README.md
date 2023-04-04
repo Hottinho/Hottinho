@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hottinho
+- 👋 Hi, I’m Christian.
 - 👀 I’m interested in journalism, podcasting, music and comedy.
 - 🌱 I’m currently learning coding at DevHaus Leipzig.
 - 📫 How to reach me: post@christian-erll.de
